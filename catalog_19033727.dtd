@@ -1,0 +1,43 @@
+<!ELEMENT musicStore (logo,title,address,address_image,contactNo,contact_image,email,email_image,website,web_image,song)>
+<!ELEMENT logo (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT address_image (#PCDATA)>
+<!ELEMENT contactNo (#PCDATA)>
+<!ELEMENT contact_image (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT email_image (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ELEMENT web_image (#PCDATA)>
+<!ELEMENT song (songs+)>
+<!ELEMENT songs (coverPhoto,songDescription)>
+<!ELEMENT coverPhoto (#PCDATA)>
+<!ELEMENT songDescription (details1,details2,details3?,details4,details5,details6,details7?,details8?,details9?,details10?,details11?)>
+<!ELEMENT details1 (songtitle,songname)>
+<!ELEMENT songtitle (#PCDATA)>
+<!ELEMENT songname (#PCDATA)>
+<!ELEMENT details2 (songtitle,Artist)>
+<!ELEMENT Artist (#PCDATA)>
+<!ELEMENT details3 (songtitle,artist)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT details4 (songtitle,Genre)>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT details5 (songtitle,Releasedate)>
+<!ELEMENT Releasedate (#PCDATA)>
+<!ELEMENT details6 (songtitle,timeLength)>
+<!ELEMENT timeLength (#PCDATA)>
+<!ELEMENT details7 (songtitle,Album)>
+<!ELEMENT Album (#PCDATA)>
+<!ELEMENT details8 (songtitle,Producer)>
+<!ELEMENT Producer (#PCDATA)>
+<!ELEMENT details9 (songtitle,Songwriter)>
+<!ELEMENT Songwriter (#PCDATA)>
+<!ELEMENT details10 (songtitle,Nominations)>
+<!ELEMENT Nominations (#PCDATA)>
+<!ELEMENT details11 (songtitle,Awards)>
+<!ELEMENT Awards (#PCDATA)>
+<!ATTLIST songs id CDATA #IMPLIED>
+<!ATTLIST coverPhoto song CDATA #IMPLIED>
+<!ATTLIST Album album CDATA #IMPLIED>
+<!ATTLIST Producer producer CDATA #IMPLIED>
+<!ATTLIST artist name CDATA #IMPLIED>

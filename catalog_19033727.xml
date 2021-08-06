@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="catalog_19033727.css"?>
+<!-- <!DOCTYPE musicStore SYSTEM "catalog_19033727.dtd"> -->
+<musicStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ 		xsi:noNamespaceSchemaLocation="catalog_19033727.xsd">
+    <logo></logo>
+    <title> Musical Cartoon</title>
+    <address>Basundhara, Kathmandu</address>
+    <address_image></address_image>
+    <contactNo>+977-9867849736</contactNo>
+    <contact_image></contact_image>
+    <email>surakshyashrestha024@gmail.com</email>
+    <email_image></email_image>
+    <website>www.cartoonmusicstore.com</website>
+    <web_image></web_image>
+    <song>
+       <songs id="song1">
+            <coverPhoto song="cover1"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Dynamite
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						BTS
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Disco, Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						August 21, 2020
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3mins 19seconds
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producer:
+					</songtitle>
+                    <Producer producer="producerName">
+						David Stewart
+					</Producer>
+                </details8>
+                <details10>
+                    <songtitle>
+						Nominations:
+					</songtitle>
+                    <Nominations>
+						Golden Disc Award Song Division, Mnet Asian Music Award for the song of the year,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						Grammy Award for Best Pop Duo/Group performance,Golden Disc Award Song Division,more
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song2">
+            <coverPhoto song="cover2"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>Song Name:</songtitle>
+                    <songname>Icecream</songname>
+                </details1>
+                <details2>
+                    <songtitle>Artist:</songtitle>
+                    <Artist>Blackpink</Artist>
+                </details2>
+                <details3>
+                    <songtitle>Featured artist:</songtitle>
+                    <artist name="S1">Selena Gomez</artist>
+                </details3>
+                <details4>
+                    <songtitle>Genre:</songtitle>
+                    <Genre>Bubblegum pop,trap,pop,electropop</Genre>
+                </details4>
+                <details5>
+                    <songtitle>Release Date:</songtitle>
+                    <Releasedate>August 28,2020</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>Time Length:</songtitle>
+                    <timeLength>2mins 56seconds</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>Album:</songtitle>
+                    <Album album="A10">The Album</Album>
+                </details7>
+                <details10>
+                    <songtitle>Nominations:</songtitle>
+                    <Nominations>Kids choice Award for Favourite Collaboration
+					</Nominations>
+                </details10>
+            </songDescription>
+        </songs>
+        <songs id="song3">
+            <coverPhoto song="cover3"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						ME!
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Taylor Swift
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Bubblegum music, Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						August 26, 2019
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3mins 13seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A1">
+						Lover
+					</Album>
+                </details7>
+                <details10>
+                    <songtitle>
+						Nominations:
+					</songtitle>
+                    <Nominations>
+						MTV Video Music Award for Best Cinematography,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						MTV Video Music Award for Best Visual Effects, MTV Europe Music Award for Best Video
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song4">
+            <coverPhoto song="cover4"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Agar Tum Saath Ho
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Arjit Singh,Alka Yagnik
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Filmi
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						16 October 2015
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						46 seconds
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producer:
+					</songtitle>
+                    <Producer producer="P1">
+						A.R.Rahman
+					</Producer>
+                </details8>
+                <details10>
+                    <songtitle>
+						Nominations:
+					</songtitle>
+                    <Nominations>
+						Mirchi Music Awards for Listener's Choice Song of the year,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						Mirchi Music Award for Listener's Choice Song of the Year,Filmfare Award for Best Lyricist,more
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song5">
+            <coverPhoto song="cover5"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Perfect
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Ed Sheeran
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						26 September 2017
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						4min 23seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A3">
+						Divide
+					</Album>
+                </details7>
+                <details10>
+                    <songtitle>
+						Nominations:
+					</songtitle>
+                    <Nominations>
+						MTV Video Music Award for Best Pop Video,MTV Video Music Award for Best Direction,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						Teen Choice Award for Single:MaleArtist,Radio Disney Music Award for Best Crush Song,MuchMusic Video Award for Single of the Year
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song6">
+            <coverPhoto song="cover6"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Chitthi Bhitra
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Sajjan Raj Vaidya
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Singer-Songwriter
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						1 Jan 2018
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						5min 4seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A4">
+						Chitthi Vitra
+					</Album>
+                </details7>
+            </songDescription>
+        </songs>
+        <songs id="song7">
+            <coverPhoto song="cover7"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						How You Like That
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Blackpink
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Pop,Hip hop,trap
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						June 26,2020
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min 1sec
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A5">
+						The Album
+					</Album>
+                </details7>
+                <details10>
+                    <songtitle>
+						Nominations:
+					</songtitle>
+                    <Nominations>
+						MTV Video Music Award for Best Song of the Summer,Golden Disc Award Song Division,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						MTV Video Music Award for Best Song of the Summer,Golden Disc Award Song Division,Mnet Asian Music Award for Best Dance Performance-Female Group
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song8">
+            <coverPhoto song="cover8"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Celebrity
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						IU
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Dance Pop,electropop,tropical house
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						January 27,2021
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min 15sec
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producer:
+					</songtitle>
+                    <Producer producer="producerName">
+						Bilsby Christiansen Jhun
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriter:
+					</songtitle>
+                    <Songwriter>
+						IU Ryan S.Jhun, Jeppe London Bilsby,Lauritz Emil Christiansen,Chole Latimer,Celine Svanback
+					</Songwriter>
+                </details9>
+            </songDescription>
+        </songs>
+        <songs id="song9">
+            <coverPhoto song="cover9"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Batash
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Shashwot Khadka
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Singer-Songwriter
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						27 July,2020
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A6">
+						Batash
+					</Album>
+                </details7>
+            </songDescription>
+        </songs>
+        <songs id="song10">
+            <coverPhoto song="cover10"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Lose Yourself
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Eminem
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Hip hop,hardcore hip hop,rap rock
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						October 28,2002
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						4min 27seconds
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Eminem,Jeff Bass,Luis Resto
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriters:
+					</songtitle>
+                    <Songwriter>
+						Marshall Mathers,Jeff Bass,Luis Resto
+					</Songwriter>
+                </details9>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						MTV Video Music Award for Best Video from a film,Academy Award for Best Original Song, Grammy Award for Best Rap Song and Best Rap Solo Performance.
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song11">
+            <coverPhoto song="cover11"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Lose You To Love Me
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Selena Gomez
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						October 23, 2019
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min 26seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A7">
+						Rare
+					</Album>
+                </details7>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Mattman,Robin
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriters:
+					</songtitle>
+                    <Songwriter>
+						Selena Gomez,Julia Michaels,Justin Tranter,Mattias Larsson,Robin Fredriksson
+					</Songwriter>
+                </details9>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						&quot;Lose You to Love Me&quot; was listed as one of the best songs of 2019 by Vulture and Billboard.
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song12">
+            <coverPhoto song="cover12"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						7 rings
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Ariana Grande
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Hip hop music, Rhythm and blues, Trap music, Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						January 18, 2019
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						2min 58seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A8">
+						thank u, next
+					</Album>
+                </details7>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Tommy Brown,Charles Anderson,Michael Foster
+					</Producer>
+                </details8>
+                <details10>
+                    <songtitle>
+						Nominations::
+					</songtitle>
+                    <Nominations>
+						Grammy Award for Best Pop Solo Performance,MTV Europe Music Award for Best Song,more
+					</Nominations>
+                </details10>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						MTV Video Music Award for Best Art Direction.
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song13">
+            <coverPhoto song="cover13"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Love Yourself
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Justin Bieber
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Acoustic Pop
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						December 6, 2015
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min 53seconds
+					</timeLength>
+                </details6>
+                <details7>
+                    <songtitle>
+						Album:
+					</songtitle>
+                    <Album album="A9">
+						Love Yourself
+					</Album>
+                </details7>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Benny Blanco
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriter:
+					</songtitle>
+                    <Songwriter>
+						Ed Sheeran,Benny Blanco,Justin Bieber
+					</Songwriter>
+                </details9>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						NRJ Music Award for International Song of the Year,American Music Award for Favorite Song Pop/Rock,more
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song14">
+            <coverPhoto song="cover14"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						Stay With Me
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Punch and Chanyeol
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Soundtrack, ballad
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						December 3,2016
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						3min 13seconds
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Rocoberry
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriter:
+					</songtitle>
+                    <Songwriter>
+						Lee Seung Joo
+					</Songwriter>
+                </details9>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						Asia Model Festival Award for Asia OST Popularity, 13th KKBox Music Awards for Best Korean Single of the Year
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+        <songs id="song15">
+            <coverPhoto song="cover15"></coverPhoto>
+            <songDescription>
+                <details1>
+                    <songtitle>
+						Song Name:
+					</songtitle>
+                    <songname>
+						On The Ground
+					</songname>
+                </details1>
+                <details2>
+                    <songtitle>
+						Artist:
+					</songtitle>
+                    <Artist>
+						Rosé
+					</Artist>
+                </details2>
+                <details4>
+                    <songtitle>
+						Genre:
+					</songtitle>
+                    <Genre>
+						Pop,electropop,pop rock
+					</Genre>
+                </details4>
+                <details5>
+                    <songtitle>
+						Release Date:
+					</songtitle>
+                    <Releasedate>
+						12 March 2021
+					</Releasedate>
+                </details5>
+                <details6>
+                    <songtitle>
+						Time Length:
+					</songtitle>
+                    <timeLength>
+						2min 48seconds
+					</timeLength>
+                </details6>
+                <details8>
+                    <songtitle>
+						Producers:
+					</songtitle>
+                    <Producer>
+						Jon Bellion,Ojivolta,Odegard,Teddy,24
+					</Producer>
+                </details8>
+                <details9>
+                    <songtitle>
+						Songwriter:
+					</songtitle>
+                    <Songwriter>
+						Amy Allen,Jon Bellion,Jorgen Odegard,Raúl Cubina,Teddy Park,Rosé
+					</Songwriter>
+                </details9>
+                <details11>
+                    <songtitle>
+						Awards:
+					</songtitle>
+                    <Awards>
+						Music Bank,Show Champion,Show! Music Core,First artist to reach number one on a Billboard Global 200 chart as a soloist and as part of a group in Guinness World Records.
+					</Awards>
+                </details11>
+            </songDescription>
+        </songs>
+    </song>
+</musicStore>

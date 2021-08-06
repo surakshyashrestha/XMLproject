@@ -1,0 +1,140 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="musicStore" type="musicStoreType"/>
+  <xs:complexType name="coverPhotoType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="song" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="details1Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="songname"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details2Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Artist"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="artistType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="details3Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="artistType" name="artist"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details4Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Genre"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details5Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Releasedate"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details6Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="timeLength"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AlbumType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="album" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="details7Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="AlbumType" name="Album"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details10Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Nominations"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="songDescriptionType">
+    <xs:choice maxOccurs="unbounded" minOccurs="0">
+      <xs:element type="details1Type" name="details1"/>
+      <xs:element type="details2Type" name="details2"/>
+      <xs:element type="details3Type" name="details3"/>
+      <xs:element type="details4Type" name="details4"/>
+      <xs:element type="details5Type" name="details5"/>
+      <xs:element type="details6Type" name="details6"/>
+      <xs:element type="details7Type" name="details7"/>
+      <xs:element type="details8Type" name="details8"/>
+      <xs:element type="details9Type" name="details9"/>
+      <xs:element type="details10Type" name="details10"/>
+      <xs:element type="details11Type" name="details11"/>
+
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="songsType">
+    <xs:sequence>
+      <xs:element type="coverPhotoType" name="coverPhoto"/>
+      <xs:element type="songDescriptionType" name="songDescription"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="ProducerType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="producer" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="details8Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="ProducerType" name="Producer"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details11Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Awards"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="details9Type">
+    <xs:sequence>
+      <xs:element type="xs:string" name="songtitle"/>
+      <xs:element type="xs:string" name="Songwriter"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="songType">
+    <xs:sequence>
+      <xs:element type="songsType" name="songs" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="musicStoreType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="logo"/>
+      <xs:element type="xs:string" name="title"/>
+      <xs:element type="xs:string" name="address"/>
+      <xs:element type="xs:string" name="address_image"/>
+      <xs:element type="xs:string" name="contactNo"/>
+      <xs:element type="xs:string" name="contact_image"/>
+      <xs:element type="xs:string" name="email"/>
+      <xs:element type="xs:string" name="email_image"/>
+      <xs:element type="xs:string" name="website"/>
+      <xs:element type="xs:string" name="web_image"/>
+      <xs:element type="songType" name="song"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
